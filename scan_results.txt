@@ -1,0 +1,47 @@
+# Nmap 7.97 scan initiated Tue Jun 24 22:51:59 2025 as: nmap -sS -oN scan_results.txt 192.168.1.0/24
+Nmap scan report for RedmiNote6Pro-redmi (192.168.1.2)
+Host is up (0.019s latency).
+All 1000 scanned ports on RedmiNote6Pro-redmi (192.168.1.2) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 48:2C:A0:AA:7A:F6 (Xiaomi Communications)
+
+Nmap scan report for narzo-50i (192.168.1.3)
+Host is up (0.0099s latency).
+All 1000 scanned ports on narzo-50i (192.168.1.3) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 1E:E0:FA:1F:F3:9C (Unknown)
+
+Nmap scan report for realme-5i (192.168.1.4)
+Host is up (0.023s latency).
+All 1000 scanned ports on realme-5i (192.168.1.4) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: DE:67:EA:74:8D:85 (Unknown)
+
+Nmap scan report for realme-2-Pro (192.168.1.6)
+Host is up (0.013s latency).
+All 1000 scanned ports on realme-2-Pro (192.168.1.6) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 02:3B:2B:A1:F6:10 (Unknown)
+
+Nmap scan report for Broadcom.Home (192.168.1.125)
+Host is up (0.030s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+5431/tcp open  park-agent
+MAC Address: B4:CF:E0:19:AF:20 (Sichuan tianyi kanghe communications)
+
+Nmap scan report for DESKTOP-JF3OV1O (192.168.1.7)
+Host is up (0.0010s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+3306/tcp open  mysql
+5357/tcp open  wsdapi
+
+# Nmap done at Tue Jun 24 22:53:41 2025 -- 256 IP addresses (6 hosts up) scanned in 102.85 seconds
