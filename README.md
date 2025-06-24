@@ -43,5 +43,8 @@ _________________________________________________
 | 3306 | MySQL           | Database attacks                                  | Bind to localhost, use strong credentials   |
 | 5357 | WSDAPI          | Device info exposure                              | Disable if not needed                       |
 
-
+📝 Author
+Name: Sagar  Jha
+Internship Task: Cybersecurity – Task 1
+Date: 24/03/2025
 
